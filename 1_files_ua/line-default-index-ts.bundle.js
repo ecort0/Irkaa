@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[55],{118:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var a=n(62);n(1654);t.default=()=>({[(0,a.makeDataPrefix)("line-button-effect")]:"default"})},1654:function(e,t,n){}}]);
